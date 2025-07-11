@@ -1,0 +1,4 @@
+# Зависимости для DS3 Cloud Save Manager
+PyQt5>=5.15.0
+requests>=2.25.0
+# Для сборки exe: pyinstaller (опционально) 

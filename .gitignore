@@ -1,0 +1,15 @@
+# Чувствительные данные
+.github_creds
+
+# Python
+*.pyc
+__pycache__/
+.DS_Store
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Логи
+log.txt 
